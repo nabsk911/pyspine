@@ -1,0 +1,8 @@
+[project]
+name = "pyspine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = ["mediapipe>=1.1.1", "plyer>=2.1.0"]
+
